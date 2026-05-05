@@ -1,3 +1,6 @@
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Mohamed Goda</h1>
+<h3 align="center">🚀 Full Stack Developer | PERN · Next.js · TypeScript · PostgreSQL</h3>
+
 # 💫 About Me:
 🌱 I'm currently learning NestJs<br>💬 Ask me about React, Node.js, MongoDB, PostgreSQL<br>📫 Reach me at mohamedintj9392@gmail.com
 
